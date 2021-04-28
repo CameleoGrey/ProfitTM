@@ -4,3 +4,5 @@ A hierarchical topic modeling framework based on word embeddings and neural nets
 # Example of 2 level hierarchy ("All the news" dataset from Kaggle)
 ![](readme_imgs/2_levels_hierarchy_example.jpg)
 
+# The node pipeline scheme
+![](readme_imgs/main_scheme.png
